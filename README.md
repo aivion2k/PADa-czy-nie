@@ -36,6 +36,7 @@ Lista wszystkich dostępnych stacji: https://danepubliczne.imgw.pl/api/data/syno
 - Wykresy i statystyki w czasie rzeczywistym
 - Możliwość eksploracji różnych aspektów danych
 - Wizualizacja wyników modelowania
+- Uruchomienie: `streamlit run streamlit.py`
 
 ## Wymagania
 
